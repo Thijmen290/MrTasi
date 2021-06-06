@@ -1,11 +1,12 @@
 ![welcome](Foto Soon)
-```Just a yea discord developer! :DDD.
+```js
+Just a yea discord developer! :DDD.
 ```
 
 - 🌱 I’m currently learning everything 🤣
-- 💎 Making youtube videos.
-- 📣 Projects made by me: itemName=LimXuan.sourcebin-uploader)
-- ⚡ Fun fact: I coded a discord bot. It got verified by discord.<br />
+- 💎 Making everything.
+- 📣 Projects made by me: https://youtube.com/mrtasi
+- ⚡ Fun fact: I was very bad in coding lol<br />
 
 ### Languages and Tools:
 
@@ -21,7 +22,7 @@
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 <!-- ### Jobs
-Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
+Currently coding discord bots for payments at RoyalApps. Send me a message on discord to discuss.<br>
 (Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
 
 ---
@@ -29,11 +30,10 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [#94 Premium Guild System (with EXPIRY DATE) | discord.js tutorials](https://www.youtube.com/watch?v=dTgEpP_5T3o)
-- [#93 Premium System (with MONGODB) | discord.js tutorials](https://www.youtube.com/watch?v=yemZ57qO8qk)
-- [#92 Interactive Discord Buttons! | discord.js tutorials](https://www.youtube.com/watch?v=09AyvuAW-wU)
-- [#91 Blacklisting Servers / Guilds (with mongodb) | discord.js tutorials](https://www.youtube.com/watch?v=QjM5ebBXz7g)
-- [#90 Mod Logs System (database included) | discord.js tutorials](https://www.youtube.com/watch?v=LN1Z8joJg2w)
+-
+-
+-
+-
 <!-- YOUTUBE:END -->
 
 ---
@@ -59,4 +59,4 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 </p>
 
 
-**© [reconlx](https://github.com/reconlx)**
+**© [MrTasi](https://github.com/thijmen290)**
