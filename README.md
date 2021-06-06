@@ -1,5 +1,5 @@
+𝙈𝙧𝙏𝙖𝙨𝙞
 
-   <img src="https://imgur.com/a/GBkfKo9" alt="welcome" width="80"/>
 ```js
 Just a yea discord developer! :DDD.
 ```
@@ -51,10 +51,10 @@ Currently coding discord bots for payments at RoyalApps. Send me a message on di
 </details> -->
 
 <p align="center">
-<a href="https://discord.gg/xCCpfth">
+<a href="https://discord.gg/8prATxpBGR">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
-<a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
+<a href="https://www.youtube.com/channel/UCTs1J-Gl_Hmo-8yOYJKWSJA">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </p>
