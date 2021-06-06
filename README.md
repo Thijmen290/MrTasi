@@ -1,4 +1,5 @@
-![welcome](Foto Soon)
+
+   <img src="https://imgur.com/a/GBkfKo9" alt="welcome" width="80"/>
 ```js
 Just a yea discord developer! :DDD.
 ```
